@@ -1,29 +1,10 @@
 end=int(input("enter a number here : "))
+new=1
+while new<end+1:
+    stepTwo=1
+    while stepTwo<new+1:
+        print(stepTwo, end=" ")
+        stepTwo=stepTwo+1
+    print("")
+    new=new+1
 
-stepTwo=1
-while stepTwo<1+1:
-    print(stepTwo, end=" ")
-    stepTwo=stepTwo+1
-print("")
-
-stepTwo=1
-while stepTwo<2+1:
-    print(stepTwo, end=" ")
-    stepTwo=stepTwo+1
-print("")
-
-stepTwo=1
-while stepTwo<3+1:
-    print(stepTwo, end=" ")
-    stepTwo=stepTwo+1
-print("")
-
-stepTwo=1
-while stepTwo<4+1:
-    print(stepTwo, end=" ")
-    stepTwo=stepTwo+1
-print("")
-
-
-# chotu sa message
-    
