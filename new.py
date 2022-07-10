@@ -5,4 +5,4 @@ while 1<wed+1:
         print('*', end=" ")
         led=led+1
     print(" ")
-    wed=wed-1
+    wed=wed-1   
