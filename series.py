@@ -6,4 +6,4 @@ while ini>0:
     ini=ini-1
 print (sum)
 
-aise hi kuch bhi
+# aise hi kuch bhi
