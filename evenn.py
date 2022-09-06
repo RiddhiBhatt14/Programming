@@ -1,1 +1,0 @@
-#Write a program to print first 10 even numbers in reverse order.
