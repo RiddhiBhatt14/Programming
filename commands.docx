@@ -1,12 +1,13 @@
 --> for Python 
-
 --->(#)
-
 ---> python3 <filename>.py
 
 --> for C 
-
 ---> (//)
-
 ---> gcc <filename>.c -o <filename>.out
      ./<filename>.out
+
+--> for git
+---> git add .
+---> git push origin master
+---> git commit
